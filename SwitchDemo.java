@@ -1,3 +1,10 @@
+/*
+ * This demo show how to use swith pattern
+ * Inside Swith condition we could put:
+ * String 
+ * int
+*/
+
 public class SwitchDemo {
     public static void main(String[] args) {
         String month = args[0];
@@ -10,6 +17,7 @@ public class SwitchDemo {
 	    	break;
   	    default:
     		System.out.println("I have no idea!");
+    		break;
         }
     }
 }
