@@ -1,6 +1,7 @@
 /*
  * This file show main function also could take arguments.
- * Actually main function will take the arguments after the command you execute the java .class file
+ * Actually main function will take the arguments after the command 
+ * you execute the java .class file
  * Run: 
  * 		java UseArgument Xu Zhu Lin
  * Result: 
