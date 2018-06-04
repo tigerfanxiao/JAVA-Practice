@@ -1,3 +1,4 @@
+package practice.basic.sysntax;
 /*
  * This file show main function also could take arguments.
  * Actually main function will take the arguments after the command 

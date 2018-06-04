@@ -1,3 +1,4 @@
+package practice.basic.sysntax;
 /*
  * This demo show how to use swith pattern
  * Inside Swith condition we could put:
