@@ -1,6 +1,6 @@
 package practice.designpartten.factoryPattern;
 
-public class PlanFactory extends VehicleFactory {
+public class PlaneFactory extends VehicleFactory {
 
 	@Override
 	public Vehicle createVehicle() {
