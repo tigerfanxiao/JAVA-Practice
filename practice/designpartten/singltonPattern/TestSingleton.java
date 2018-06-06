@@ -12,7 +12,7 @@ public class TestSingleton {
 		// intend to get the second instance of Chocolate boiler
 		ChocolateBoiler chocolateBoiler02 = ChocolateBoiler.getInstance();
 		// find the instance status is the same as first instance
-		// so there is only one instance
+		// so there is only one instance.
 		System.out.println(chocolateBoiler02.isEmpty());
 		System.out.println(chocolateBoiler02.isBoiled());
 	}
