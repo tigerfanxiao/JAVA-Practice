@@ -1,6 +1,6 @@
 package practice.designpartten.strategyPattern;
 
-public class MainApp {
+public class TestStrategyPattern {
 	public static void main(String[] args) {
 		// separate fly behavior from super class
 		Duck mallardDuck = new MallardDuck();
