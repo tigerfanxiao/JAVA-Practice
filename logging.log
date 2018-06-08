@@ -2,3 +2,7 @@
 2018-06-08 22:41:12 WARN  TestLogger:15 - This is warn
 2018-06-08 22:41:12 ERROR TestLogger:16 - This is error
 2018-06-08 22:41:12 FATAL TestLogger:17 - This is fatal
+2018-06-08 22:51:22 INFO  TestLogger:14 - This is info
+2018-06-08 22:51:22 WARN  TestLogger:15 - This is warn
+2018-06-08 22:51:22 ERROR TestLogger:16 - This is error
+2018-06-08 22:51:22 FATAL TestLogger:17 - This is fatal
